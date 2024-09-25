@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Arquiteto de Dados<br>- Analista de Dados<br>- Recém formado e tentando entrar no mercado de trabalho.</p>
+<p align="left">- Gabriel Cardoso<br>- Arquiteto de Dados<br>- Analista de Dados<br>- Recém formado e tentando entrar no mercado de trabalho.</p>
 
 ###
 
@@ -54,6 +54,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/eucardoso0/eucardoso0/output/snake.svg" alt="Snake animation" />
 
